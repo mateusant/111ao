@@ -1,0 +1,6 @@
+{
+  "name": "Ocorrência Remota",
+  "description": "Sistema Integrado de Levantamento Criminal e Inteligência Geográfica com ODK e WebGIS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
